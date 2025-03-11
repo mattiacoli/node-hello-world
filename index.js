@@ -1,1 +1,1 @@
-console.log("Hello Boolean questa é una stringa scritta da terminale con nano");
+console.log('questo é un testo scritto utilizzando echo')
